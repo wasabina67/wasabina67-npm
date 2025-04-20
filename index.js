@@ -1,3 +1,7 @@
 #!/usr/bin/env node
 
-console.log('Hello, World!! 🚀');
+const selfIntroduction = `
+Hi, I’m @wasabina67 👋
+`;
+
+console.log(selfIntroduction);
