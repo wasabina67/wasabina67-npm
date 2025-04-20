@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/wasabina67/wasabina67-npm.git"
   },
-  "keywords": [],
+  "keywords": [
+    "wasabina67"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
