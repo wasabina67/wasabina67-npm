@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/wasabina67/wasabina67-npm#readme",
   "bin": {
-    "wasabina67": "./index.js"
+    "wasabina67": "index.js"
   },
   "type": "module"
 }
